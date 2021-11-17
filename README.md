@@ -12,7 +12,7 @@ Dockerfileが入ってます。
 ソースコードが入っています。
 ### ONIOM_energy_values.ipynb
 high_real, low_real, high_model, low_modelを回転させた二面角とともにCSVで出力します。
-今のところ、二面角はファイル名から判断してます。
+今のところ、二面角はファイル名から判断してます。(座標の情報から二面角を取れたらもっと便利)
 
 ### 環境構築の基本的な手順
 - git clone <urlを入力>
